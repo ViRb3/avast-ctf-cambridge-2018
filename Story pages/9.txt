@@ -1,0 +1,22 @@
+09:Alexandria south market
+    _   _                      _     _                 
+   /_\ | |_____ ____ _ _ _  __| |_ _(_)__ _            
+  / _ \| / -_) \ / _` | ' \/ _` | '_| / _` |           
+ /_/ \_\_\___/_\_\__,_|_||_\__,_|_| |_\__,_|     _   
+  ___ ___ _  _| |_| |_    _ __  __ _ _ _| |_____| |_ 
+ (_-</ _ \ || |  _| ' \  | '  \/ _` | '_| / / -_)  _|
+ /__/\___/\_,_|\__|_||_| |_|_|_\__,_|_| |_\_\___|\__|
+ 
+ You arrived to the Alexandria south market after a long journey and locate 
+ an enemy agent there.
+
+ "We have received an arcane item with hidden key to decode top secret commands
+ from our allies. Unfortunately, messenger died before he could describe 
+ how to obtain a key."
+ 
+ His last words were: "You must transcribe instructions to.."
+
+ "We need this key, because our fellow spies from Carthage and Syracuse
+ haven't reacted to our messages in the last few days.." he said.
+
+ If you can find the key, report it to our commander at Pharos Lighthouse.

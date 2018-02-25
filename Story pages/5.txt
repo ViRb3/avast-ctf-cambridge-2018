@@ -1,0 +1,18 @@
+05:Carthage tavern
+   ___          _   _                    _                         
+  / __|__ _ _ _| |_| |_  __ _ __ _ ___  | |_ __ ___ _____ _ _ _ _  
+ | (__/ _` | '_|  _| ' \/ _` / _` / -_) |  _/ _` \ V / -_) '_| ' \ 
+  \___\__,_|_|  \__|_||_\__,_\__, \___|  \__\__,_|\_/\___|_| |_||_|
+                             |___/                                 
+ 
+ You sailed to Carthage without any troubles and you arrived 
+ to the Aqua Fortis tavern. 
+
+ The bartender carefully listened to the message from the Syracuse 
+ enemy (and now dead) spy leader. 
+
+ The bartender thought for a moment and said: 
+ "Well done stranger, the orders are clear, go to Baths of Antonius and say 
+ aqua vitae to the very old man with a cart near the entrance."
+
+ Continue to Baths of Antonius..

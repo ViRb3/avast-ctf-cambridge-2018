@@ -1,0 +1,21 @@
+01:Rome HQ
+  ___                 _  _  ___  
+ | _ \___ _ __  ___  | || |/ _ \ 
+ |   / _ \ '  \/ -_) | __ | (_) |
+ |_|_\___/_|_|_\___| |_||_|\__\_\
+                                 
+ Welcome legionary!
+
+ We have to track and destroy the enemy spy ring. They have a mystical
+ God artifact and can see our troops and ships from the sky.
+ Traces as to where the enemies could be lead to Syracuse, Carthage 
+ and Alexandria. 
+
+ We find a dead spy on our way to Syracuse with strange messages.
+ The first message is only a pile of numbers. The second is also very weird.
+
+ Try to find path a to take to get to the God artifact and remember, 
+ there are many legionaries also going after the artifact, 
+ but there can only be one winner!
+
+ Try to decode the enemy message to continue to Syracuse.

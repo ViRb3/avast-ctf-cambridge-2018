@@ -1,0 +1,19 @@
+06:Carthage baths of Antonius
+   ___          _   _                                                
+  / __|__ _ _ _| |_| |_  __ _ __ _ ___                               
+ | (__/ _` | '_|  _| ' \/ _` / _` / -_)                              
+  \___\__,_|_|  \__|_||_\__,_\__, \___|                              
+  ___       _   _            |___/    _       _            _         
+ | _ ) __ _| |_| |_  ___  ___ / _|   /_\  _ _| |_ ___ _ _ (_)_  _ ___
+ | _ \/ _` |  _| ' \(_-< / _ \  _|  / _ \| ' \  _/ _ \ ' \| | || (_-<
+ |___/\__,_|\__|_||_/__/ \___/_|   /_/ \_\_||_\__\___/_||_|_|\_,_/__/
+                                                                    
+ You found the old man with the cart and said the password to him. 
+ He then takes out a wooden crate out of his cart. 
+
+ "Everything you need is inside the box. Use your sword if you have 
+ problems opening it. If you find something interesting, go to the Amfiteater 
+ and report it to our commander. Be careful, what is inside is pure evil!" 
+ he said and left.
+
+ Continue to Amphiteatre..
